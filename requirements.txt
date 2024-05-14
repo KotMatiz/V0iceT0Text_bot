@@ -1,0 +1,6 @@
+requests
+whisper
+torch
+telebot
+concurrent.futures
+ffmpeg-python
